@@ -1,4 +1,4 @@
-﻿global using System;
+global using System;
 global using Microsoft.Extensions.DependencyInjection;
 global using Moq;
 global using MvvmBlazor.Components;
@@ -20,4 +20,3 @@ global using System.Collections.Specialized;
 global using System.ComponentModel;
 global using MvvmBlazor.Internal.WeakEventListener;
 global using MvvmBlazor.CodeGenerators.Components;
-global using MvvmBlazor.CodeGenerators.NotifyPropertyChanged;
